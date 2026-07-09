@@ -29,14 +29,6 @@ const CodingProfiles = () => {
       color: "from-gray-600 to-slate-800",
       stats: "9 repositories",
     },
-    {
-      name: "LeetCode",
-      description: "Algorithm practice, competitive programming, and DSA mastery",
-      url: siteConfig.leetcode,
-      icon: Code2,
-      color: "from-orange-500 to-amber-600",
-      stats: "50+ problems solved",
-    },
   ];
 
   const containerVariants = {
