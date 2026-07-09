@@ -27,7 +27,7 @@ const CodingProfiles = () => {
       url: siteConfig.github,
       icon: Github,
       color: "from-gray-600 to-slate-800",
-      stats: "25+ repositories",
+      stats: "9 repositories",
     },
     {
       name: "LeetCode",
@@ -35,7 +35,7 @@ const CodingProfiles = () => {
       url: siteConfig.leetcode,
       icon: Code2,
       color: "from-orange-500 to-amber-600",
-      stats: "200+ problems solved",
+      stats: "50+ problems solved",
     },
   ];
 

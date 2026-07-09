@@ -136,10 +136,8 @@ export const experience = [
 ];
 
 export const codingAchievements = [
-  { label: "Problems Solved", value: "200+", icon: "code" as const },
-  { label: "GitHub Repos", value: "25+", icon: "repo" as const },
-  { label: "Open Source", value: "10+", icon: "star" as const },
-  { label: "Contest Rating", value: "1500+", icon: "trophy" as const },
+  { label: "Problems Solved", value: "50+", icon: "code" as const },
+  { label: "GitHub Repos", value: "9", icon: "repo" as const },
 ];
 
 export const navLinks = [
